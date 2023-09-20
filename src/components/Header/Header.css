@@ -1,0 +1,23 @@
+.header-container{
+    position: relative;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(82, 122, 196);
+    align-items: center;
+    height: 80px;
+    position: static;
+    top: 0;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 22px;
+    color: white;
+} 
+.header img{
+    margin-left: 80px;
+}
